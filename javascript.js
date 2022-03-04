@@ -1,0 +1,7 @@
+alert("Este va a ser un mensaje rápido")
+alert("Anoche soñe contigo, soñaba que me besabas y me acorralabas")
+alert("Y no quiero que se quede en un sueño amor")
+alert("Que rico usted hpta")
+alert("Perdón me alteré")
+alert(" Para finalizar Te adoro, y que rico recibir todos los días una notificacion tuya en mi celular.")
+alert(" Pdta: me debes la foto de ayer")
